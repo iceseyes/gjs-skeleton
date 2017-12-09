@@ -1,0 +1,27 @@
+{
+  "name": "gjs-skeleton",
+  "version": "0.0.1",
+  "description": "A basic skeletop for Gnome-Javascript Apps (gjs)",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iceseyes/gjs-skeleton.git"
+  },
+  "keywords": [
+    "gnome",
+    "gjs",
+    "gtk3"
+  ],
+  "author": "Massimo Bianchi <bianchi.massimo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iceseyes/gjs-skeleton/issues"
+  },
+  "homepage": "https://github.com/iceseyes/gjs-skeleton#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
